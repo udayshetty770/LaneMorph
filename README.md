@@ -33,4 +33,7 @@ Machine Learning Powered Divider for Traffic Volume Adaptation - Final Year Proj
 - Udaya Kumar Shetty (1EE21CS056)
 
 ## 📝 License
-[MIT](./LICENSE)
+
+This project is licensed under the [MIT License](./LICENSE).
+
+For further reference, see the published article: [IJHCI Article](https://milestoneresearch.in/JOURNALS/index.php/IJHCI/article/view/163/164)
